@@ -84,7 +84,8 @@ in general.
         "But how do I quickly start using this module?"    
         
  # Python Resource 3
- 
+Ref: [Link](https://www.fullstackpython.com/best-python-resources.html)
+
 ## Best Python Resources
 
 - The Python community is amazing at sharing detailed resources and helping beginners learn to program with the language. There are so many resources out there though that it can be difficult to know how to find them.
